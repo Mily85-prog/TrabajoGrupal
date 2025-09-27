@@ -12,6 +12,9 @@ public class trabajo {
     public class Trabajo {
     public void mostrarInfo() {
         System.out.println("Clase Trabajo - demostración de buenas prácticas Git");
+        System.out.println("Clase Trabajo Snyder - demostración de buenas prácticas Git");
+        System.out.println("buenas practicas git Snyder");
     }
+    
 }
 }
