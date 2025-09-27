@@ -18,7 +18,7 @@ public class TrabajoGrupalSemana03 {
         System.out.println("Bienvenido al proyecto con Git y GitHub");
         System.out.println("Hola mundo soy Milagros");
         System.out.println("Prueba de git stash");
-        System.out.println("Prueba para revert");
+        System.out.println("Prueba para revert real ");
 
 
         // TODO code application logic here
