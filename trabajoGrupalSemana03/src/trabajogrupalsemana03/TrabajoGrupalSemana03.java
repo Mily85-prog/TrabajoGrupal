@@ -15,6 +15,7 @@ public class TrabajoGrupalSemana03 {
      */
     public static void main(String[] args) {
         System.out.println("Aprendiendo Ramas");
+        System.out.println("Bienvenido al proyecto con Git y GitHub");
         // TODO code application logic here
     }
     
