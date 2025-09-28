@@ -27,10 +27,11 @@ public class principal {
             System.out.println("1. Agregar estudiante");
             System.out.println("2. Listar estudiantes");
             System.out.println("3. Buscar estudiante por ID");
-            System.out.println("4. Salir");
+            System.out.println("4. Buscar estudiante por nombre");
+            System.out.println("5. Salir");
             System.out.print("Opción: ");
             opcion = sc.nextInt();
-            sc.nextLine(); // limpiar buffer
+            sc.nextLine(); 
 
             switch (opcion) {
                 case 1:
@@ -61,8 +62,21 @@ public class principal {
                         System.out.println(" No existe estudiante con ese ID.");
                     }
                     break;
-
                 case 4:
+                    System.out.print("Ingrese nombre a buscar: ");
+                    String nombreBuscar = sc.nextLine();
+                   var lista = gestor.buscarPorNombre(nombreBuscar);
+                   if (lista.isEmpty()) {
+                   System.out.println("❌ No se encontraron coincidencias.");
+                   } else {
+                   System.out.println("✅ Resultados encontrados:");
+                   for (Estudiante e : lista) {
+                   System.out.println(e);
+        }
+    }
+    break;
+
+                case 5:
                     System.out.println("Saliendo del sistema...");
                     break;
 
