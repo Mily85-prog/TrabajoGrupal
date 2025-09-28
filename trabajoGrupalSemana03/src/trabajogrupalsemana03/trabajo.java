@@ -9,5 +9,9 @@ package trabajogrupalsemana03;
  * @author Mily
  */
 public class trabajo {
-    
+    public class Trabajo {
+    public void mostrarInfo() {
+        System.out.println("Clase Trabajo - demostración de buenas prácticas Git");
+    }
+}
 }
