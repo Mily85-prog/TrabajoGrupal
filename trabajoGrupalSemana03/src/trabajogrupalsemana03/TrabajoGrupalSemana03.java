@@ -17,6 +17,10 @@ public class TrabajoGrupalSemana03 {
         System.out.println("Aprendiendo Ramas");
         System.out.println("Bienvenido al proyecto con Git y GitHub");
         System.out.println("Hola mundo soy Milagros");
+        System.out.println("Prueba de git stash");
+        System.out.println("Prueba para revert");
+
+
         // TODO code application logic here
         public class TrabajoGrupalSemana03 {
     public static void main(String[] args) {
