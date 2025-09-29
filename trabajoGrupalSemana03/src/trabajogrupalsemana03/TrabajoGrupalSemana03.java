@@ -32,7 +32,7 @@ public class TrabajoGrupalSemana03 {
 
        System.out.println("Bienvenido-Navegación de ramas-Semana3");
        System.out.println("Holi, soy Belen ");
-       System.out.println("Evidencio mi practicas :/");
+       System.out.println("Evidencio mi practicas :)");
     }
 
 }
