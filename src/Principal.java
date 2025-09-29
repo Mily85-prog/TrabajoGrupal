@@ -7,7 +7,10 @@ public class Principal
 {
 public static void main(String[] args)
     {
-        
+         System.out.println("Cambio ");
+          System.out.println("Cambio ama");
+           System.out.println("Cambio desde ");
+            System.out.println("Cambio");
         Controlador controlador = new Controlador(new Scanner (System.in));
         try 
         {
