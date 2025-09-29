@@ -11,6 +11,9 @@ public static void main(String[] args)
           System.out.println("Cambio ama");
            System.out.println("Cambio desde ");
             System.out.println("Cambio");
+             System.out.println("Cambio desde rama");
+              System.out.println("Cambio desde rama");
+              
         Controlador controlador = new Controlador(new Scanner (System.in));
         try 
         {
