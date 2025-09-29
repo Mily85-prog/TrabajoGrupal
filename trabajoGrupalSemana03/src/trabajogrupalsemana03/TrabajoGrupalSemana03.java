@@ -23,23 +23,19 @@ public class TrabajoGrupalSemana03 {
 
 
         // TODO code application logic here
-  revert-4-feature/mejores-practicas
-=======
-       rama-milagros
+  
 
         System.out.println("Bienvenido al Trabajo Grupal - Semana 03");
         System.out.println("HOLA SPY SNYDER BUENAS PRACTICAS");
         System.out.println("ESTA ES MI EVIDENCIA");
     
-=======
-       ramaBelen 
+
        System.out.println("Bienvenido-Navegación de ramas-Semana3");
        System.out.println("Holi, soy Belen ");
-       System.out.println("Evidencio mi practica :) ");
+       System.out.println("Evidencio mi practicas :/");
     }
 
 }
-        practica-sobrecarga
 
         public class TrabajoGrupalSemana03 {
     public static void main(String[] args) {
@@ -50,8 +46,7 @@ public class TrabajoGrupalSemana03 {
         trabajo.mostrarInfo();
     }
 }
- feature/mensaje
- feature/mensaje
+ 
     }
     
 }
