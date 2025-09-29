@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+/trabajoGrupalSemana03/nbproject/private/
+/ProyectoGitDemo04/nbproject/private/
+=======
+=======
+>>>>>>> e52e388e37e5aca7696c989919c1e603c91c44ad
+/build/ 
+/dist/ 
+*.class 
+nbproject/private/ 
+<<<<<<< HEAD
+>>>>>>> d34b9ce (chore: agrega .gitignore para NetBeans)
+/sobreCargaS05/nbproject/private/
+=======
+>>>>>>> e52e388e37e5aca7696c989919c1e603c91c44ad
