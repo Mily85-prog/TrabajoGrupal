@@ -35,7 +35,7 @@ public class TrabajoGrupalSemana03 {
        ramaBelen 
        System.out.println("Bienvenido-Navegación de ramas-Semana3");
        System.out.println("Holi, soy Belen ");
-       System.out.println("Evidencio mi practica ");
+       System.out.println("Evidencio mi practica :) ");
     }
 
 }
