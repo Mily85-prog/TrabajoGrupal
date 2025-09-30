@@ -23,31 +23,16 @@ public class TrabajoGrupalSemana03 {
 
 
         // TODO code application logic here
-<<<<<<< HEAD
-  
-=======
   revert-4-feature/mejores-practicas
 =======
        rama-milagros
->>>>>>> f43f17e027c50d91090ca04ecb449fcd0df367a8
 
         System.out.println("Bienvenido al Trabajo Grupal - Semana 03");
         System.out.println("HOLA SPY SNYDER BUENAS PRACTICAS");
         System.out.println("ESTA ES MI EVIDENCIA");
-<<<<<<< HEAD
-    
-
-       System.out.println("Bienvenido-Navegación de ramas-Semana3");
-       System.out.println("Holi, soy Belen ");
-       System.out.println("Evidencio mi practicas :)");
-    }
-
-}
-=======
     }
 }
         practica-sobrecarga
->>>>>>> f43f17e027c50d91090ca04ecb449fcd0df367a8
 
         public class TrabajoGrupalSemana03 {
     public static void main(String[] args) {
@@ -58,12 +43,8 @@ public class TrabajoGrupalSemana03 {
         trabajo.mostrarInfo();
     }
 }
-<<<<<<< HEAD
- 
-=======
  feature/mensaje
  feature/mensaje
->>>>>>> f43f17e027c50d91090ca04ecb449fcd0df367a8
     }
     
 }
